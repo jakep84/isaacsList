@@ -1,6 +1,6 @@
 # isaacsList
 
-> A Veteran One Source  
+> A curated list of veteran resources 
 
 <!--
 
